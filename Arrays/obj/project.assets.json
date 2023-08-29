@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\CsharpFundamentals\\Arrays\\DynamicArray.csproj",
+      "projectUniqueName": "C:\\dev\\CollectionsCsharp\\Arrays\\DynamicArray.csproj",
       "projectName": "DynamicArray",
-      "projectPath": "C:\\dev\\CsharpFundamentals\\Arrays\\DynamicArray.csproj",
+      "projectPath": "C:\\dev\\CollectionsCsharp\\Arrays\\DynamicArray.csproj",
       "packagesPath": "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\CsharpFundamentals\\Arrays\\obj\\",
+      "outputPath": "C:\\dev\\CollectionsCsharp\\Arrays\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel Yuji Yasuda\\AppData\\Roaming\\NuGet\\NuGet.Config",

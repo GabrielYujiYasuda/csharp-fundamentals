@@ -24,6 +24,7 @@ Console.WriteLine(  );
 
 al.Insert(1, 150);
 al.Remove(200);
+al.RemoveAt(0);
 
 foreach (object x in al)
 {
