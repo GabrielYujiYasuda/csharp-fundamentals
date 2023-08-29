@@ -31,7 +31,6 @@ foreach (object x in al)
     Console.Write(x + "   ");
 }
 
-
 //You NEVER can do on arrays:
 //- icrease the size
 //- insert values in the middle 

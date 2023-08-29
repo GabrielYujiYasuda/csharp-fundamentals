@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\csharp-fundamentals\\Arrays\\DynamicArray.csproj": {}
+    "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj": {}
   },
   "projects": {
-    "C:\\dev\\csharp-fundamentals\\Arrays\\DynamicArray.csproj": {
+    "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\csharp-fundamentals\\Arrays\\DynamicArray.csproj",
-        "projectName": "DynamicArray",
-        "projectPath": "C:\\dev\\csharp-fundamentals\\Arrays\\DynamicArray.csproj",
+        "projectUniqueName": "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj",
+        "projectName": "Strings",
+        "projectPath": "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj",
         "packagesPath": "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\csharp-fundamentals\\Arrays\\obj\\",
+        "outputPath": "C:\\dev\\csharp-fundamentals\\Strings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gabriel Yuji Yasuda\\AppData\\Roaming\\NuGet\\NuGet.Config",
