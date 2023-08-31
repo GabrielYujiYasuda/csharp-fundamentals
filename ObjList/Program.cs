@@ -22,8 +22,12 @@ internal class Program
         list.Sort();
         Imprimir(list);
 
-        list.Sort((x, y) => x.time.CompareTo(y.time));
+        list.Sort((x, y) => x.Time.CompareTo(y.Time));
         Imprimir(list);
+
+        //============================
+
+        Curso curso = new Curso("C#", "Gabriel");
     }
 
     public static void Imprimir(List<Aula> list)
