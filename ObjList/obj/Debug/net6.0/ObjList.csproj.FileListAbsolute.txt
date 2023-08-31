@@ -1,0 +1,14 @@
+C:\dev\csharp-fundamentals\ObjList\bin\Debug\net6.0\ObjList.exe
+C:\dev\csharp-fundamentals\ObjList\bin\Debug\net6.0\ObjList.deps.json
+C:\dev\csharp-fundamentals\ObjList\bin\Debug\net6.0\ObjList.runtimeconfig.json
+C:\dev\csharp-fundamentals\ObjList\bin\Debug\net6.0\ObjList.dll
+C:\dev\csharp-fundamentals\ObjList\bin\Debug\net6.0\ObjList.pdb
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.AssemblyInfoInputs.cache
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.AssemblyInfo.cs
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.csproj.CoreCompileInputs.cache
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.dll
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\refint\ObjList.dll
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.pdb
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ObjList.genruntimeconfig.cache
+C:\dev\csharp-fundamentals\ObjList\obj\Debug\net6.0\ref\ObjList.dll
