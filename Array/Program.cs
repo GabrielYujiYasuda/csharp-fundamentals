@@ -19,7 +19,28 @@
         Console.WriteLine("First index: " + arr[0]);
         Console.WriteLine("Last index: " + arr[arr.Length -1]);
 
+        Console.WriteLine("The last index again: " + Array.LastIndexOf(arr, aula03));
+        //reversing the array
+        Array.Reverse(arr);
+        Array.Resize(ref arr, 2);
+        Array.Resize(ref arr, 3);
+
+        arr[arr.Length - 1] = "AAA";
+
+        Array.Sort(arr);
+
+        string[] copyArr = new string[2];
+        Array.Copy(arr, 1, copyArr, 0, 2);
+
+        string[] cloneArr = arr.Clone() as string[];
+
+
+        Console.WriteLine("");
         Imprimir(arr);
+        Console.WriteLine("");
+        Imprimir(copyArr);
+        Console.WriteLine("");
+        Imprimir(cloneArr);
     }
 
     static void Imprimir(string[] arr)
