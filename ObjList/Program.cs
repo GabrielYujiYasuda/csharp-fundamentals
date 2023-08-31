@@ -14,20 +14,26 @@ internal class Program
 
         list.Add(aula01);
         list.Add(aula02);
-        list.Add(aula03);
-        list.Add(aula04);
+        list.Add(aula03); 
+        list.Add(aula04);  
 
         Imprimir(list);
-
+         
         list.Sort();
         Imprimir(list);
 
-        list.Sort((x, y) => x.Time.CompareTo(y.Time));
+        list.Sort((x, y) => x.Time.CompareTo(y.Time)); 
         Imprimir(list);
 
-        //============================
+        //=============================================
 
-        Curso curso = new Curso("C#", "Gabriel");
+        Curso curso = new Curso("C#", "Gabriel", list);
+
+        Console.WriteLine($"Total time: {curso.TotalTime()}");
+        Console.WriteLine();
+
+        Console.WriteLine("Printing the COURSE!!!");
+        curso.ToString();
     }
 
     public static void Imprimir(List<Aula> list)
