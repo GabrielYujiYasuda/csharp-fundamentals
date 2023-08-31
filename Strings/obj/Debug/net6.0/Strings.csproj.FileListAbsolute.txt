@@ -1,0 +1,4 @@
+C:\dev\csharp-fundamentals\Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-fundamentals\Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+C:\dev\csharp-fundamentals\Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+C:\dev\csharp-fundamentals\Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
