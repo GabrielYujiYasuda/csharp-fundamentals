@@ -17,6 +17,8 @@
 
         Console.WriteLine("Comparing: " + text01.CompareTo("Test"));
         Console.WriteLine("Contains: " + text01.Contains("test", StringComparison.OrdinalIgnoreCase));
-        Console.WriteLine("Contains: " + text01.Contains("tste"));
+
+        Console.WriteLine("Stars: " + text01.StartsWith("t", StringComparison.OrdinalIgnoreCase)); //Ignore cases
+        Console.WriteLine("Ends: " + text01.EndsWith("G"));
     }
 }
