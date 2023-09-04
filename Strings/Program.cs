@@ -8,9 +8,15 @@
 
         //string text = "The price of the product is: " + price + "!Promo!";
         //string text = string.Format("The price of produts is {0:0.000} !PROMO!", price);
-        string text = $@"The price of the product is:\n {price} !PROMO!";
-
-
+        string text = $@"The price of the product is: {price} !PROMO!";
         Console.WriteLine(text);
+
+        Console.WriteLine();
+        //Comparing
+        string text01 = "Test";
+
+        Console.WriteLine("Comparing: " + text01.CompareTo("Test"));
+        Console.WriteLine("Contains: " + text01.Contains("test", StringComparison.OrdinalIgnoreCase));
+        Console.WriteLine("Contains: " + text01.Contains("tst"));
     }
 }
