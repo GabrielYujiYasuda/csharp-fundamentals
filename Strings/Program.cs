@@ -12,13 +12,38 @@
         Console.WriteLine(text);
 
         Console.WriteLine();
-        //Comparing
-        string text01 = "Test";
+
+        string text01 = "This is just a example for test";
 
         Console.WriteLine("Comparing: " + text01.CompareTo("Test"));
         Console.WriteLine("Contains: " + text01.Contains("test", StringComparison.OrdinalIgnoreCase));
 
+        Console.WriteLine();
         Console.WriteLine("Stars: " + text01.StartsWith("t", StringComparison.OrdinalIgnoreCase)); //Ignore cases
         Console.WriteLine("Ends: " + text01.EndsWith("G"));
+
+        Console.WriteLine();
+        Console.WriteLine("Equals: " + text01.Equals("Test"));
+        Console.WriteLine("Equals: " + text01.Equals("test"));
+
+        Console.WriteLine();
+        Console.WriteLine("Index: " + text01.IndexOf("T"));
+        Console.WriteLine("Index: " + text01.IndexOf("t"));
+
+        Console.WriteLine();
+        Console.WriteLine("Las index of: " +text01.LastIndexOf("i"));
+
+        Console.WriteLine();
+        string myName = "GaBrIeL YaSuDa";
+
+        Console.WriteLine("Default: " + myName);
+        Console.WriteLine("Upper: " + myName.ToUpper());
+        Console.WriteLine("Lower: " + myName.ToLower());
+
+        Console.WriteLine();
+        string exploring = "Testing the remove and inserting";
+
+        Console.WriteLine("Insert: " + exploring.Insert(0, "GABRIEL is "));
+        Console.WriteLine("Remove: " + exploring.Remove(0, 8));
     }
 }
