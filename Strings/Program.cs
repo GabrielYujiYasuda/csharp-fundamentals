@@ -17,6 +17,6 @@
 
         Console.WriteLine("Comparing: " + text01.CompareTo("Test"));
         Console.WriteLine("Contains: " + text01.Contains("test", StringComparison.OrdinalIgnoreCase));
-        Console.WriteLine("Contains: " + text01.Contains("tst"));
+        Console.WriteLine("Contains: " + text01.Contains("tste"));
     }
 }
