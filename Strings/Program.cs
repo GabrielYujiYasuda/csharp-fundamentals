@@ -52,6 +52,36 @@
         //Console.WriteLine(replacing.Replace("Yasuda", "Yuji"));
         replacing = replacing.Replace("Yasuda", "Yuji");
         Console.WriteLine(replacing);
+        Console.WriteLine(replacing.Replace("Yuji", "aspiodjaosipdj"));
 
+        string texted = "     this,is,a,string,to,be,splited,just,for,fun      ";
+        var splited = texted.Split(",");
+
+        Console.WriteLine("SPLIT: " + splited);
+        Console.WriteLine(splited[0]);
+        Console.WriteLine(splited[1]);
+        Console.WriteLine(splited[2]);
+        Console.WriteLine(splited[3]);
+        Console.WriteLine(splited[4]);
+        Console.WriteLine(splited[5]);
+
+        Console.WriteLine();
+
+        Console.WriteLine("ITERATING");
+
+        foreach (var item in splited)
+        {
+            Console.WriteLine(item);
+        }
+
+
+        Console.WriteLine("SubString: ");
+
+        //Get the "fun" word;
+        string result = texted.Substring(0, 4);
+        Console.WriteLine(texted);
+        Console.WriteLine("Result: " + result);
+
+        Console.WriteLine(texted.Trim());
     }
 }
