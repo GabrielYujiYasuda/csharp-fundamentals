@@ -31,7 +31,7 @@
         Console.WriteLine("Index: " + text01.IndexOf("t"));
 
         Console.WriteLine();
-        Console.WriteLine("Las index of: " +text01.LastIndexOf("i"));
+        Console.WriteLine("Last index of: " +text01.LastIndexOf("i"));
 
         Console.WriteLine();
         string myName = "GaBrIeL YaSuDa";
@@ -45,5 +45,13 @@
 
         Console.WriteLine("Insert: " + exploring.Insert(0, "GABRIEL is "));
         Console.WriteLine("Remove: " + exploring.Remove(0, 8));
+
+        Console.WriteLine();
+        string replacing = "Gabriel Yasuda";
+
+        //Console.WriteLine(replacing.Replace("Yasuda", "Yuji"));
+        replacing = replacing.Replace("Yasuda", "Yuji");
+        Console.WriteLine(replacing);
+
     }
 }
