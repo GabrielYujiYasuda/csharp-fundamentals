@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using System.Text;
+
+internal class Program
 {
     private static void Main(string[] args)
     {
@@ -78,10 +80,20 @@
         Console.WriteLine("SubString: ");
 
         //Get the "fun" word;
-        string result = texted.Substring(0, 4);
+        string result = texted[..4];
         Console.WriteLine(texted);
         Console.WriteLine("Result: " + result);
 
         Console.WriteLine(texted.Trim());
+
+        Console.WriteLine();
+        Console.WriteLine("STRING BUILDER: ");
+
+        var texto = new StringBuilder();
+        texto.Append("TEXTO TEXTO TEXTO TEXTO TEXTO TEXTO");
+        texto.Append("Gabriel Yasuda");
+
+        Console.WriteLine(texto.ToString());
+
     }
 }
