@@ -76,7 +76,6 @@ internal class Program
             Console.WriteLine(item);
         }
 
-
         Console.WriteLine("SubString: ");
 
         //Get the "fun" word;
@@ -94,6 +93,5 @@ internal class Program
         texto.Append("Gabriel Yasuda");
 
         Console.WriteLine(texto.ToString());
-
     }
 }
