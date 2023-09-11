@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjList", "ObjList\ObjList.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sets", "Sets\Sets.csproj", "{72EC3BB4-FA9E-420A-AAB7-3C7D07DDFCD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datas", "Datas\Datas.csproj", "{3FFDD956-90CA-4DEF-A48E-D76A40E41218}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dates", "Datas\Dates.csproj", "{3FFDD956-90CA-4DEF-A48E-D76A40E41218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

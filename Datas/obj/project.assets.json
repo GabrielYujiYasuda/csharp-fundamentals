@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\csharp-fundamentals\\Datas\\Datas.csproj",
-      "projectName": "Datas",
-      "projectPath": "C:\\dev\\csharp-fundamentals\\Datas\\Datas.csproj",
+      "projectUniqueName": "C:\\dev\\csharp-fundamentals\\Datas\\Dates.csproj",
+      "projectName": "Dates",
+      "projectPath": "C:\\dev\\csharp-fundamentals\\Datas\\Dates.csproj",
       "packagesPath": "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\csharp-fundamentals\\Datas\\obj\\",
       "projectStyle": "PackageReference",

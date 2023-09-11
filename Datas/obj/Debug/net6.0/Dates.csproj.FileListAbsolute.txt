@@ -1,0 +1,14 @@
+C:\dev\csharp-fundamentals\Datas\bin\Debug\net6.0\Dates.exe
+C:\dev\csharp-fundamentals\Datas\bin\Debug\net6.0\Dates.deps.json
+C:\dev\csharp-fundamentals\Datas\bin\Debug\net6.0\Dates.runtimeconfig.json
+C:\dev\csharp-fundamentals\Datas\bin\Debug\net6.0\Dates.dll
+C:\dev\csharp-fundamentals\Datas\bin\Debug\net6.0\Dates.pdb
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.AssemblyInfoInputs.cache
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.AssemblyInfo.cs
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.csproj.CoreCompileInputs.cache
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.dll
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\refint\Dates.dll
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.pdb
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\Dates.genruntimeconfig.cache
+C:\dev\csharp-fundamentals\Datas\obj\Debug\net6.0\ref\Dates.dll
