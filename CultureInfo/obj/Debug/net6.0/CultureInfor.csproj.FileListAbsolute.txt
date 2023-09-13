@@ -1,0 +1,14 @@
+C:\dev\csharp-fundamentals\CultureInfo\bin\Debug\net6.0\CultureInfor.exe
+C:\dev\csharp-fundamentals\CultureInfo\bin\Debug\net6.0\CultureInfor.deps.json
+C:\dev\csharp-fundamentals\CultureInfo\bin\Debug\net6.0\CultureInfor.runtimeconfig.json
+C:\dev\csharp-fundamentals\CultureInfo\bin\Debug\net6.0\CultureInfor.dll
+C:\dev\csharp-fundamentals\CultureInfo\bin\Debug\net6.0\CultureInfor.pdb
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.AssemblyInfoInputs.cache
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.AssemblyInfo.cs
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.csproj.CoreCompileInputs.cache
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.dll
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\refint\CultureInfor.dll
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.pdb
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\CultureInfor.genruntimeconfig.cache
+C:\dev\csharp-fundamentals\CultureInfo\obj\Debug\net6.0\ref\CultureInfor.dll

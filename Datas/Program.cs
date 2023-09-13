@@ -9,7 +9,7 @@ internal class Program
 
         // var date = new DateTime();
         //var date = new DateTime(2001, 03, 26);
-        var date = DateTime.Now;
+        DateTime date = DateTime.Now;
 
         Console.WriteLine("Complete: " + date);
         Console.WriteLine("Year: " + date.Year);
@@ -23,10 +23,27 @@ internal class Program
 
         Console.WriteLine("========================\n");
 
-        var formated = string.Format("{0:dd/MM/yyyy hh:mm:ss}", date);
+        // var formated = string.Format("{0:dd/MM/yyyy hh:mm:ss}", date);
+        // string formated = string.Format("{0:g}", date);
+        string formated = string.Format("{0:r}", date);
+
+        date.AddDays(13);
+        date.AddMonths(3);
+        date.AddYears(2);
+        date.AddHours(23);
 
         Console.WriteLine(formated);
 
+        Console.WriteLine("========================\n");
 
+        var testx = DateTime.Now;
+
+        if (testx.Date == DateTime.Now.Date)
+        {
+            Console.WriteLine("Same hours");
+        } else
+        {
+            Console.WriteLine("Different hours!!!");
+        }
     }
 }
