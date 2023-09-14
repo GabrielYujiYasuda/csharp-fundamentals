@@ -24,6 +24,7 @@ internal class Program
 
         Console.WriteLine();
         Console.WriteLine("Odd numbers: ");
+
         foreach (int i in oddNumbers)
         {
             Console.WriteLine(i);
