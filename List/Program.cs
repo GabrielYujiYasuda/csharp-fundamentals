@@ -8,10 +8,10 @@ internal class Program
         string aula02 = "Estrutura de dados";
         string aula03 = "Aprendendo dotnet";
 
-        //List<string> aulas = new List<string>()
-        //{
-        //    aula01, aula02, aula03
-        //};
+        list<string> aulas = new list<string>()
+        {
+            aula01, aula02, aula03
+        };
 
         var aulas = new List<string>();
         aulas.Add(aula01);
