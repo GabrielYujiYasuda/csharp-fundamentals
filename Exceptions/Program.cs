@@ -15,9 +15,9 @@
                 Save(s);
             } 
             catch (IndexOutOfRangeException e) {
-                Console.WriteLine(e.InnerException);
+                Console.WriteLine(e.InnerExcept+ion);
                 Console.WriteLine(e.Message);
-                //Console.WriteLine($"Ops, Something is wrong!");
+                Console.WriteLine($"Ops, Something is wrong!");
             } 
             catch(ArgumentNullException e) {
                 Console.WriteLine(e.InnerException);

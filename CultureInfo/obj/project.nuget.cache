@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "lOaAj0wBUYF9JK9/YtgeFG5RwQPSvKHxRumS3U9b+Kfbb4scKFfe37bu3GrDBJBgR9LExtXE2Dr+s0RevQB03Q==",
+  "dgSpecHash": "pPtv5CwSVGa8k6OiTXqQuEubh2JMYGIxJepY0g0DvXbWopOES5wu+hEPRvRc+bhr2dZkNgsUAmT5Zw/01FVxBA==",
   "success": true,
   "projectFilePath": "C:\\dev\\csharp-fundamentals\\CultureInfo\\CultureInfor.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
