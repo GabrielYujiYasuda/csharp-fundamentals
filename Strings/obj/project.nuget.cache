@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WbfrWSFUy8/8E2suqc30YpoFR+59OyCOIvZHjsnp0njiCO3GNEWPgP8/TstFK5H3Ll60hCtcodO/8Ug5L1RGYQ==",
+  "dgSpecHash": "U8tnpGl19j7vflsjxxDvNOjovvDeUbwXHM9qIQFnAKlni1hGlH/X5fKhtd8LClGUEaKkg2DZqA4nP1lort9eWw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj",
+  "projectFilePath": "/home/gabriely/dev/csharp-fundamentals/Strings/Strings.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
-    "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+    "/home/gabriely/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.23/microsoft.netcore.app.host.linux-x64.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj": {}
+    "/home/gabriely/dev/csharp-fundamentals/Strings/Strings.csproj": {}
   },
   "projects": {
-    "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj": {
+    "/home/gabriely/dev/csharp-fundamentals/Strings/Strings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj",
+        "projectUniqueName": "/home/gabriely/dev/csharp-fundamentals/Strings/Strings.csproj",
         "projectName": "Strings",
-        "projectPath": "C:\\dev\\csharp-fundamentals\\Strings\\Strings.csproj",
-        "packagesPath": "C:\\Users\\Gabriel Yuji Yasuda\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\csharp-fundamentals\\Strings\\obj\\",
+        "projectPath": "/home/gabriely/dev/csharp-fundamentals/Strings/Strings.csproj",
+        "packagesPath": "/home/gabriely/.nuget/packages/",
+        "outputPath": "/home/gabriely/dev/csharp-fundamentals/Strings/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gabriel Yuji Yasuda\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/gabriely/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,20 +50,8 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.22, 6.0.22]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.22, 6.0.22]"
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.23, 6.0.23]"
             }
           ],
           "frameworkReferences": {
@@ -73,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
         }
       }
     }
